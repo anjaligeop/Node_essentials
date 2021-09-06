@@ -17,6 +17,6 @@ An API to perform CRUD operations on db. Schema contains - pokemon name, type an
 - mongoDB compass : https://www.mongodb.com/products/compass (download and right click zip folder to install with ubuntu software manager)
 
 ### start mongoDB server before performing operations on mongoDB compass:
-`sudo systemctl start mongod`
-`sudo systemctl restart mongod`
-`sudo systemctl stop mongod`
+- `sudo systemctl start mongod`
+- `sudo systemctl restart mongod`
+- `sudo systemctl stop mongod`
